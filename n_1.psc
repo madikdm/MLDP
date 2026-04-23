@@ -1,0 +1,7 @@
+Algoritmo n_1
+	n <- 1
+	Mientras n <= 5 Hacer
+		escribir n
+		n = n+1
+	Fin Mientras
+FinAlgoritmo
